@@ -1,0 +1,26 @@
+#map {
+  position: relative;
+  top: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar {
+  background-color: rgba(35, 55, 75, 0.9);
+  color: #fff;
+  padding: 6px 12px;
+  font-family: monospace;
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 10px 0 0 15px;
+  border-radius: 4px;
+  font-size: 15px;
+}
